@@ -1,6 +1,8 @@
 # student-app
 The **student-app** data visualization is a simple app built with [R Shiny](https://shiny.rstudio.com/). This app analyzes 1,000 students' high school GPA, SAT scores, and first year of university GPA. The raw data is availble via [OpenIntro Statistics](https://www.openintro.org/stat/extras.php).  
 
+![Alt Text](https://media.giphy.com/media/3o752ljXAza6grWSEo/giphy.gif)
+
 ## Run the application
 Execute the following commands in R to install the app's required libraries. 
 ```
